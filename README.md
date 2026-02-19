@@ -30,3 +30,43 @@ This project builds a machine learning model to predict:
 
 ## 📁 Project Structure
 
+---
+
+## 📊 Workflow
+
+### 1️⃣ Data Preprocessing
+- Clean column names
+- Clean target column
+- Encode categorical features
+- Split features (X) and target (y)
+
+### 2️⃣ Model Training
+- Train/Test split (80/20)
+- Random Forest Classifier
+- Evaluate model accuracy
+- Save trained model
+
+### 3️⃣ Prediction
+- Load saved model
+- Align feature columns
+- Predict risk category for new customers
+
+---
+
+## 🧠 Model Used
+
+RandomForestClassifier from Scikit-learn.
+
+Why Random Forest?
+- Handles categorical data well
+- Robust to overfitting
+- Works well without heavy tuning
+
+---
+
+## 📈 How to Run
+
+### Step 1: Train the Model
+
+
+
