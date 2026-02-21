@@ -75,7 +75,4 @@ Why Random Forest?
 
 
 
-<img width="1470" height="956" alt="Screenshot 2026-02-21 at 6 04 50 PM" src="https://github.com/user-attachments/assets/6ad7cf2e-a796-485c-aa07-f880e3f20df6" />
-
-
-
+<img width="1469" height="792" alt="image" src="https://github.com/user-attachments/assets/27080e2f-27a9-45e8-a2db-53cd1285ec80" />
