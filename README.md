@@ -66,7 +66,16 @@ Why Random Forest?
 
 ## 📈 How to Run
 
-### Step 1: Train the Model
+1️⃣ Clone the Repository
+2️⃣ Create Virtual Environment (Recommended)
+3️⃣ Install requirements 
+4️⃣ Train the Model
+5️⃣ run streamlit app
+
+
+
+
+<img width="1470" height="956" alt="Screenshot 2026-02-21 at 6 04 50 PM" src="https://github.com/user-attachments/assets/6ad7cf2e-a796-485c-aa07-f880e3f20df6" />
 
 
 
