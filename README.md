@@ -17,6 +17,8 @@ This project builds a machine learning model to predict:
 - High Risk
 
 ---
+<img width="1469" height="792" alt="image" src="https://github.com/user-attachments/assets/ecf1cfe1-8fc7-487a-9c30-8dbe0fab859c" />
+
 
 ## 🛠️ Tech Stack
 
@@ -75,4 +77,3 @@ Why Random Forest?
 
 
 
-<img width="1469" height="792" alt="image" src="https://github.com/user-attachments/assets/27080e2f-27a9-45e8-a2db-53cd1285ec80" />
